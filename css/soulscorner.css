@@ -3,8 +3,8 @@ body {
   height: 100%;
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: black;
-  background: url(../img/background-min.jpg) center center scroll;
-  background-color: black;
+  background: url(../img/bg-1920x1080-min.jpg) 10% 90% scroll;
+  background-color: white;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
